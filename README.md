@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @titisriz
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning Flutter and planning to become a flutter developer
+- 🌱 I’m currently learning Flutter and looking forward to become a mobile developer
 
 <!---
 titisriz/titisriz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
